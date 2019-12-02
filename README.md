@@ -4,8 +4,11 @@ The arduino directs whether there is someone inside the room or not, and if ther
 
 ## Features
 -Made by using arduino 1.8.10
+
 -Manages to turn on lights and fans when sensor detects someone has entered the room
+
 -Manages to turn off lights and fans when the sensor detects that the last person has left the room
+
 -Manages to detect the current temperature of the room, and turns on the fan when it has exceeded a set threshold
 
 ## Links
