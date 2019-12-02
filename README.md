@@ -1,15 +1,12 @@
+##Project Title
 Arduino Based Bidirectional Visiter counter and Temperature that automatically turns on ElectricFan and Lights
 The arduino directs whether there is someone inside the room or not, and if there is, turns on the lights and fans. If there is no one but the temperature exceeds a certain threshold, the Fan would still turn on, but not the light.
 
 ## Features
-- REMOVE_THE_SAMPLES_BELOW_AND_PUT_YOUR_FEATURES;
-- Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
-- Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
-- Markdown Extras : Support ToC (Table of Contents), Emoji, Task lists, @Links...;
-- Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support identification, interpretation, fliter of the HTML tags;
-- Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
-- Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
+-Made by using arduino 1.8.10
+-Manages to turn on lights and fans when sensor detects someone has entered the room
+-Manages to turn off lights and fans when the sensor detects that the last person has left the room
+-Manages to detect the current temperature of the room, and turns on the fan when it has exceeded a set threshold
 
 ## Links
 
@@ -20,14 +17,14 @@ The arduino directs whether there is someone inside the room or not, and if ther
 
 [Mark Arcedas]
 
-[Joyce Ann Celis Artacho](http://facebook.com/name1)
+[Joyce Ann Celis Artacho](https://www.facebook.com/joycekodaay)
 
-[Aristotle Asuncion](http://facebook.com/name2)
+[Aristotle Asuncion](https://www.facebook.com/AkoSiAris001)
 
-[Marvelino Balaga]
+[Marvelino Balaga](https://www.facebook.com/profile.php?id=100007988267956)
 
-[Schyrie Alliah Garcia]
+[Schyrie Alliah Garcia](https://www.facebook.com/eiryhcshailla)
 
-[John Byrds Labordo]
+[John Byrds Labordo](https://www.facebook.com/laborrdj)
 
-[Sedrick James Suatengco]
+[Sedrick James Suatengco](https://www.facebook.com/SSealis)
