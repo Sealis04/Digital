@@ -13,7 +13,7 @@ The arduino directs whether there is someone inside the room or not, and if ther
 
 ## Links
 
-[Arduino Temperature Control Library]https://github.com/milesburton/Arduino-Temperature-Control-Library
+[Arduino Temperature Control Library] https://github.com/milesburton/Arduino-Temperature-Control-Library
 
 ## Credits Behind This Project
 
